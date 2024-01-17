@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**branww/branww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my digital game development skills by learning through the ropes of programming and designing games.
 - 🌱 I’m currently learning how to create original games off the top of my head.
 - 👯 I’m looking to collaborate on creative games made by me and my team members.
